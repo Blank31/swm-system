@@ -123,12 +123,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTRIBUTORS -->
-## Contributors
-
-* [Vikas Tiwari](https://www.linkedin.com/in/vikas-tiwari-1b051818b/)
-* [Bimalesh Seth](https://www.linkedin.com/in/bimaleshseth/)
-* [Durgesh Tiwari](https://www.linkedin.com/in/durgesh98/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
